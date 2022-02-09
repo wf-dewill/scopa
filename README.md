@@ -1,6 +1,6 @@
 # Scopa
 
-###Overview
+### Overview
 The classic Italian Card Game.
 
 See https://en.wikipedia.org/wiki/Scopa#Gameplay for how to play & scoring.
