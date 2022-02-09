@@ -1,0 +1,3 @@
+recursive-include scopa/resources *.jpg
+recursive-include scopa/resources *.jpeg
+recursive-include scopa/resources *.png
